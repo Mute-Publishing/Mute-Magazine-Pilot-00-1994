@@ -1,9 +1,3 @@
----
-title: Mute Vol 1, No. 0 − Can Art Survive the 20th Century? 1994 Nov, ISSN 1356-7748-01
-keywords: Mute
-summary: Mute Vol 1, No. 0 − Can Art Survive the 20th Century? 1994 Nov, ISSN 1356-7748-01. Archive resources PDF, images, full text, metadata.
----
-
 # Mute Vol 1, No. 0 − Can Art Survive the 20th Century? 1994 Nov, ISSN 1356-7748-01
 
 ## Mute Magazine Print Archive
