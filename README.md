@@ -30,4 +30,4 @@ Content and code open access and open source (c) Mute Publishing and the authors
 
 GPL 3.0
 
-![GPL 3.0](/assets/gplv3-with-text-136x68.png "GPL 3.0")
+![GPL 3.0](https://raw.githubusercontent.com/Mute-Publishing/Mute-Magazine-Pilot-00-1994/main/assets/gplv3-with-text-136x68.png "GPL 3.0")
