@@ -1,5 +1,7 @@
-# Mute Magazine Print Archive
-## Mute Vol 1, No. 0 − Can Art Survive the 20th Century? 1994 Nov, ISSN 1356-7748-01
+# Mute Vol 1, No. 0 − Can Art Survive the 20th Century? 1994 Nov, ISSN 1356-7748-01
+
+## Mute Magazine Print Archive
+
 [http://www.metamute.org/editorial/magazine/mute-vol-1-no.-0-can-art-survive-20th-century](http://www.metamute.org/editorial/magazine/mute-vol-1-no.-0-can-art-survive-20th-century)
 
 [View PDF](https://mute-publishing.github.io/Mute-Magazine-Pilot-00-1994/pdf/M000-Pilot-ISSN-1356-7748-01.pdf) - [Images](https://github.com/Mute-Publishing/Mute-Magazine-Pilot-00-1994/tree/main/images) - [Repository](https://github.com/Mute-Publishing/Mute-Magazine-Pilot-00-1994) :ant:
