@@ -16,7 +16,7 @@ summary: Mute Vol 1, No. 0 − Can Art Survive the 20th Century? 1994 Nov, ISSN 
 
 Tweet me 😉 - hashtag [\#mutemagazine](https://twitter.com/hashtag/mutemagazine?src=hashtag_click&f=live)
 
-Any questions or if you want to volunteer - see [GitHub discussion](https://github.com/orgs/Mute-Publishing/discussions). 🍸
+Any questions or if you want to volunteer in archiving work - see [GitHub discussion](https://github.com/orgs/Mute-Publishing/discussions). 🍸
 
 This repository is part of an archiving project to build a high quality fully digital copies of Mute publications, to support further archive activation, and content reuse.
 
