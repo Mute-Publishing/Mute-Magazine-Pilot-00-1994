@@ -24,8 +24,10 @@ Archiving how-to guide and area to raise tickets for request, suggestions etc., 
 
 Questions - email Simon Worthington simon@metamute.org with questions, direct message on Twitter[@mutemagazine](https://twitter.com/mutemagazine) [https://twitter.com/mutemagazine](https://twitter.com/mutemagazine) or on FB [https://www.facebook.com/mutemagazine](https://www.facebook.com/mutemagazine) and [Instagram](https://www.instagram.com/mute_publishing/).
 
-Content and code open access and open source (c) Mute Publishing and the authors. 
+Content and code open access and open source (c) Mute Publishing and the authors.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-GPL 3.0 ![GPL 3.0](/assets/gplv3-with-text-136x68.png "GPL 3.0")
+GPL 3.0
+
+![GPL 3.0](/assets/gplv3-with-text-136x68.png "GPL 3.0")
